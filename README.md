@@ -1,2 +1,2 @@
-# sistem_geografis_kios
-Sistem Informasi Geografis KIOS pada Pasar Horas Pematangsiantar.
+# Sistem Geografis Wisata
+Sistem Informasi Geografis Wisata
