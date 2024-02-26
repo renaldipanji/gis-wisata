@@ -11,7 +11,7 @@ include 'functions.php';
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sistem Informasi Geografis Desa Benua Baru</title>
+        <title>Sistem Informasi Geografis Parawisata Kota Bangun 2024</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -52,7 +52,7 @@ include 'functions.php';
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Sistem Informasi Geografis Parawisata</div>
-                <div class="masthead-heading text-uppercase">Desa Benua Baru</div>
+                <div class="masthead-heading text-uppercase">Kota Bangun</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#portfolio">Lihat Lebih</a>
             </div>
         </header>
@@ -62,7 +62,7 @@ include 'functions.php';
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Informasi</h2>
                     <h3 class="section-subheading text-muted" style="line-height:2">Sistem Informasi Geografis (bahasa Inggris: Geographic Information System disingkat GIS) adalah sistem informasi khusus yang mengelola data yang memiliki informasi spasial (bereferensi keruangan). Atau dalam arti yang lebih sempit, adalah sistem komputer yang memiliki kemampuan untuk membangun, menyimpan, mengelola dan menampilkan informasi berefrensi geografis, misalnya data yang diidentifikasi menurut lokasinya, dalam sebuah database. Para praktisi juga memasukkan orang yang membangun dan mengoperasikannya dan data sebagai bagian dari sistem ini.                    </h3>
-                    <h3 class="section-subheading text-muted" style="line-height:2">Sistem Informasi Geografis Parawisata Desa Benua Baru Kabupaten Kutai Kartanegara merupakan sistem yang mengelolah tentang informasi geografis parawisata yang tedapat di Desa Benua Baru Kabupaten Kutai Kartanegara. Sistem ini menjelaskan tentang penyebaran letak letak parawisata pada Desa Benua Baru Kabupaten Kutai Kartanegara, di sertakan dengan galery tentang beberapa parawisata tersebut.                    </h3>
+                    <h3 class="section-subheading text-muted" style="line-height:2">Sistem Informasi Geografis Parawisata Kota Bangun Kabupaten Kutai Kartanegara merupakan sistem yang mengelolah tentang informasi geografis parawisata yang tedapat di Kota Bangun Kabupaten Kutai Kartanegara. Sistem ini menjelaskan tentang penyebaran letak letak parawisata pada Kota Bangun Kabupaten Kutai Kartanegara, di sertakan dengan galery tentang beberapa parawisata tersebut.                    </h3>
                 </div>
             </div>
         </section>
@@ -71,7 +71,7 @@ include 'functions.php';
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Tempat Wisata</h2>
-                    <h3 class="section-subheading text-muted">Beragam Wisata yang ada di Desa Benua</h3>
+                    <h3 class="section-subheading text-muted">Beragam Wisata yang ada di Kota Bangun</h3>
                 </div>
                 <div class="row mb-5">
                     <div id="map" style="height: 500px;"></div>
@@ -209,7 +209,7 @@ include 'functions.php';
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-12 my-3 my-lg-0">Copyright &copy; Sistem Informasi Geografis Parawisata Desa Benua 2023</div>
+                    <div class="col-lg-12 my-3 my-lg-0">Copyright &copy; Sistem Informasi Geografis Parawisata Kota Bangun 2024</div>
                     </div>
                 </div>
             </div>

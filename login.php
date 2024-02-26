@@ -56,7 +56,7 @@ include 'functions.php';
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-12 my-3 my-lg-0">Copyright &copy; Sistem Informasi Geografis Parawisata Desa Benua 2023</div>
+                    <div class="col-lg-12 my-3 my-lg-0">Copyright &copy; Sistem Informasi Geografis Parawisata Kota Bangun 2024</div>
                     </div>
                 </div>
             </div>

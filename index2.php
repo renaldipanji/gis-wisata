@@ -10,9 +10,6 @@ include 'functions.php';
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>    
-    <meta name="description" content="Source Code Sistem Informasi Geografis / Geographic Information System (GIS) berbasis web dengan PHP dan MySQL. Studi kasus: lokasi pura di Bali."/>
-    <meta name="keywords" content="Sistem, Informasi, geografis, gis, Tugas Akhir, Skripsi, Jurnal, Source Code, PHP, MySQL, CSS, JavaScript, Bootstrap, jQuery"/>
-    <meta name="author" content="sarjanakomedi.com"/>
     <link rel="icon" href="favicon.ico"/>
     <link rel="canonical" href="#" />
 
@@ -86,7 +83,7 @@ include 'functions.php';
     </div>
     <footer class="footer bg-success">
       <div class="container">
-        <p style="text-align:center;">Copyright &copy; <?=date('Y')?> Sistem Informasi Geografis Desa Benua Baru</p>
+        <p style="text-align:center;">Copyright &copy; <?=date('Y')?> Sistem Informasi Geografis Parawisata Kota Bangun 2024</p>
       </div>
     </footer>
 
